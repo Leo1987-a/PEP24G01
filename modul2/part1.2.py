@@ -29,3 +29,4 @@ print(modulo_result)
 #impartire care iti arata catul
 result = 10 // 3
 print(result)
+
