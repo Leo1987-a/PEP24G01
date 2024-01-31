@@ -19,3 +19,12 @@ print(f"text2 {ex1}")
 print(f"text2 {ex1} {ex2} \n {ex1}")
 print(f"text2 {ex1} \n \t {ex2} \n \t {ex1}")
 print(f"text2 {ex1} {ex2} {ex3}")
+
+
+# functia len
+
+ex1 = "exemple1"
+print(len(ex1))
+
+
+
