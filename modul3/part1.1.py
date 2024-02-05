@@ -46,3 +46,6 @@ elif var1 >= -10 and var1 < 0:
 
 else:  # not reached because it run the first 2
     print("Number is not x")
+
+
+#for loop
