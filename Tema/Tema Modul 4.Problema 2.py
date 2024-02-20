@@ -34,10 +34,10 @@ for i in range(int(nr)):
 print('Cartile din biblioteca dumneavoastra sunt : ', lista_carti)
 
 
-# #Exercitiu :
-# automobile = input('Ce autoturiseme aveti in parcul auto?')
+# # #Exercitiu :
+# automobile = input('Care sunt autoturismele care le  aveti in parcul auto?')
 # parc_auto= []
-# for i in range(str(automobile)):
+# for i in automobile:
 #   nume_autoturism= input('Marca autorurismului este: ')
 #   anul_fabricatiei = input('Anul fabricatiei este: ' )
 #   capacitate_motor = input('Capacitatea motorului este: ')
