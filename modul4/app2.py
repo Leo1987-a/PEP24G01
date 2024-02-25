@@ -1,4 +1,4 @@
-#
+
 def putere():
     result = None
     while True:
